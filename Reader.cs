@@ -16,7 +16,7 @@ System.Console.WriteLine("There were {0} lines.", contador);
 System.Console.ReadLine();  
 
 
-//ejercicio 3
+//Problema 03
 string Casoprueba ="0001:mediaAritmetica:2 4 8:4.6666";
 string[] casoprueba= Casoprueba.split(":");
 
