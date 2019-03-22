@@ -12,4 +12,4 @@
 0012:mediaGeometrica:NULL:0.0000
 0013:mediaNoExiste:2 3 6:3.0320
 0014:mediaArmonica:2 4 8:3.4286
-0015:mediaArmonica:2 3 6:3.0000
+0015:mediaArmonica:NULL:0.0000
